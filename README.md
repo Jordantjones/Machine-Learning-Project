@@ -23,7 +23,8 @@ This dataset contained dark chocolate reviews from 2006-2021. The dataset has te
 
 ## Methods
 
-This project uses descriptive analyses, such as the measure of variability for budget and profitability as well as the tendency for actors in the most profitable films. This provides useful information on the impact of budget as well as actors who have taken part in the most profitable films. 
+Our group started out by cleaning and filtering data. Then analyze the different rows and columns in the dataset. Narrow down variables using exploritory data analysis. Use feature engineer to help our model visualize and summarize data. Finally we altered data to get the best model.
+
 
 ---
 
@@ -57,24 +58,22 @@ The 10 actors with the highest average profit appeared in the most successful 80
 ## Conclusions
 
 
-This analysis offers three recomendations to Microsoft Corporation to increase their success rate in film production.
+This model accuracy for predicting dark chocolate ratings is about 80%.
 
-* Produce a minimum budget for each film of least 150 million dollars and or ensure the best quality possible using budget. 
+Our recommendations for dark chocolate companies are:
 
-* Seek out actors who have been present in ten or more highly profitable films; the analysis provided that actors who have been present in such highly profitable films have offered a higher success rate for ongoing films.
+* Use a cocoa bean Venezuela.
 
+* Use 70% cocoa when making chocolate.
 
+* Use Cocoa Bean, Sugar, and Cocoa Butter for the ingredients.
 
 ---
 
 ## Next Steps
 
 
-Further analysis could offer more in-depth predictions to increase the likelihood of film success and profitablility
-
-* Insight to suggested budget based off film length 
-
-* A descriptive analysis of particularly undesired outcomes based on films that have failed in the industry.
+The next steps for this project is to web scrape more data for different sorces to have more rows 
 
 
 ---
