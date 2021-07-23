@@ -36,22 +36,23 @@ In this visual it shows the counts of the rating column.
 
 ---
 
-What manufacturer produces the highest rated chocolate. Also where was the origin of the bean that produced the highest rated chocolate
+What manufacturer produces the highest rated chocolate. Also where was the origin of the bean that produced the highest rated chocolate.
 
 ![Manufacturer Rating Count](images/manufacturer_rating.png) ![Bean Origin Rating Count](images/bean_rating.png)
 
 ---
 
-The 20 most successful movies filtered by budget over 150 million dollars, tomatometer rating above 85, and profit above 300 million dollars had a consistent tomatometer status of Certified-Fresh.
+This visualization shows the rating for each ingredient. 
 
-![top 20 bar plot](images/20_bar_plot.png)
+![Ingredients Rating Count](images/ingredients_rating.png)
 
----
+--- 
 
-The 10 actors with the highest average profit appeared in the most successful 80% of the time. 
-
-![pie plot](images/pie_plot.png)
-
+![Box plot , Rating by Company Location](images/company_rating.png)
+![Top 15 Weighted Rating of manufacturers](images/top15_manufacturers.png)
+![Top 15 Weighted Chocolate Company Location Rating](images/top15_location.png)
+![Top 15 Weighted Chocolate Bean of Origin Rating](images/top15_bean.png)
+![Weighted Cocoa Percent Rating](images/weighted_cocoa.png)
 
 ---
 
@@ -73,7 +74,7 @@ Our recommendations for dark chocolate companies are:
 ## Next Steps
 
 
-The next steps for this project is to web scrape more data for different sorces to have more rows 
+The next steps for this project is to web scrape more data from different sorces to have more rows. Do more feature engineering and try to incorperate more characteristics. 
 
 
 ---
@@ -81,9 +82,7 @@ The next steps for this project is to web scrape more data for different sorces 
 ## For More Information
 
 
-Please review our full analysis in [our Jupyter Notebook](./movie_analysis.ipynb) or our [presentation](./presentation_Analysis.pdf).
-
-For any additional questions, please contact **Jordan Jones & jtjones1@bsc.edu, Chandler O'Neal & jchandleroneal@gmail.com**
+For any additional questions, please contact **Jordan Jones - jtjones1@bsc.edu, Qiwen Ou - qsou@bsc.edu, Jordan Johnson - jrjohnso@bsc.edu**
 
 
 ---
