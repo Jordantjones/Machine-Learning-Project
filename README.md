@@ -30,9 +30,9 @@ Our group started out by cleaning and filtering data. Then analyze the different
 
 ## Results
 
-Budgets above 150 million dollars have a stronger correlation with profit that those below 150 million. 
+In this visual it shows the counts of the rating column. 
 
-![regression plot](images/regression.png)
+![rating](images/rating.png)
 
 ---
 
