@@ -49,8 +49,8 @@ This visualization shows the rating for each ingredient.
 --- 
 
 ![Box plot , Rating by Company Location](images/company_rating.png)
-![Top 15 Weighted Rating of manufacturers](images/top15_manufacturers.png)
-![Top 15 Weighted Chocolate Company Location Rating](images/top15_location.png)
+![Top 15 Weighted Rating of manufacturers](images/top15_location.png)
+![Top 15 Weighted Chocolate Company Location Rating](images/top15_manufacturers.png)
 ![Top 15 Weighted Chocolate Bean of Origin Rating](images/top15_bean.png)
 ![Weighted Cocoa Percent Rating](images/weighted_cocoa.png)
 
