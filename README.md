@@ -36,9 +36,9 @@ In this visual it shows the counts of the rating column.
 
 ---
 
-The 10 Actors that appeared in 10 or more of the most profitable films tended to be in a film with a mean profit above 30 million dollars.
+What manufacturer produces the highest rated chocolate. Also where was the origin of the bean that produced the highest rated chocolate
 
-![actor bar plot](images/bar_plot.png)
+![Manufacturer Rating Count](images/manufacturer_rating.png) ![Bean Origin Rating Count](images/bean_rating.png)
 
 ---
 
