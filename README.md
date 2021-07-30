@@ -1,3 +1,4 @@
+
 # Dark Chocholate 
 ---
 **Authors**: Jordan Jones, Qiwen Ou, Jordan Johnson
@@ -83,6 +84,3 @@ The next steps for this project is to web scrape more data from different sorces
 
 
 For any additional questions, please contact **Jordan Jones - jtjones1@bsc.edu, Qiwen Ou - qsou@bsc.edu, Jordan Johnson - jrjohnso@bsc.edu**
-
-
----
